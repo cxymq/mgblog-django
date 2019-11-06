@@ -293,13 +293,17 @@ pip install Pillow
 [Django博客开发教程](https://www.django.cn/course/show-32.html)
 
 
-=================================================================
+
+-----------------------------------------------------------
+
 [个人博客](https://blog.csdn.net/Crazy_SunShine)
+
 [Github](https://github.com/cxymq)
+
 [个人公众号:Flutter小同学]  
 ![https://github.com/cxymq/Images/blob/master/0.失败预加载图片/error.jpg](https://github.com/cxymq/Images/blob/master/1.公众号二维码/qrcode.png)
-[个人网站](chenhui.today)
 
+[个人网站](http://chenhui.today/)
 
 
 
