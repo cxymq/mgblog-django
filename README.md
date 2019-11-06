@@ -300,8 +300,7 @@ pip install Pillow
 
 [Github](https://github.com/cxymq)
 
-[个人公众号:Flutter小同学]  
-![https://github.com/cxymq/Images/blob/master/0.失败预加载图片/error.jpg](https://github.com/cxymq/Images/blob/master/1.公众号二维码/qrcode.png)
+[个人公众号:Flutter小同学]![https://github.com/cxymq/Images/blob/master/0.失败预加载图片/error.jpg](https://github.com/cxymq/Images/blob/master/1.公众号二维码/qrcode.png)
 
 [个人网站](http://chenhui.today/)
 
